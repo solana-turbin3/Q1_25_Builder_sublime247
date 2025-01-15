@@ -1,0 +1,6 @@
+[submodule "pereq"]
+	path = pereq
+	url = https://github.com/sublime247/turbin3.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/sublime247/solana-starter.git
