@@ -4,3 +4,4 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/sublime247/solana-starter.git
+	branch = master
